@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Search Cluster
+
+**Embryo Search Cluster** is Embryo-Zero's fork of [OpenSearch](https://github.com/opensearch-project/OpenSearch), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <a href="https://opensearch.org/">
   <img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px">
 </a>
